@@ -40,6 +40,8 @@ roles — `#080808` stays the canvas and nothing drifts to mid-grey:
 | `white` `#c6c6c6` | `foreground` |
 | `blue` `#80a0ff` | `primary` — the one high-emphasis fill; upstream's active tab and `CursorLineNr` |
 | `red` `#ff5d5d` | `destructive` |
+| `green` `#8cc85f` | `tone-pass`: "passed" in the status line |
+| `yellow` `#e3c78a` | `tone-wait`: "waiting on you" |
 | `turquoise` `#79dac8` | `ring` — the focus ring; kept off `primary` so a focused blue button still shows one |
 
 The terminal palette is the upstream

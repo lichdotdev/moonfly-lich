@@ -1,6 +1,7 @@
 {
   "name": "Moonfly",
-  "version": "1.0.0",
+  "version": "1.1.0",
+  "minLichVersion": "0.53.0",
   "description": "A dark charcoal colour scheme for lich, ported from bluz71/vim-moonfly-colors.",
   "author": "omartelo"
 }
