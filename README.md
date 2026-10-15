@@ -48,6 +48,13 @@ The terminal palette is the upstream
 [kitty port](https://github.com/bluz71/vim-moonfly-colors/blob/master/extras/moonfly-kitty.conf)
 verbatim, cursor and selection included.
 
+### Syntax highlighting
+
+The theme also carries a `syntax` section, which `lich native` uses to color
+code in its diff and file views. It follows upstream's own highlight groups
+(`vim-moonfly-colors`, including the Tree-sitter ones): keywords violet,
+strings khaki, functions sky, types emerald, numbers orange, comments grey58.
+
 ### Thanks to
 
 - [bluz71](https://github.com/bluz71) — original palette

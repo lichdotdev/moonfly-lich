@@ -60,5 +60,63 @@
     "brightMagenta": "#ae81ff",
     "brightCyan": "#85dc85",
     "brightWhite": "#e4e4e4"
+  },
+  "syntax": {
+    "comment": {
+      "color": "#949494",
+      "italic": true
+    },
+    "keyword": "#cf87e8",
+    "string": "#c6c684",
+    "regexp": "#79dac8",
+    "escape": "#e65e72",
+    "character": "#ae81ff",
+    "docString": "#88a2b7",
+    "number": "#de935f",
+    "bool": "#e65e72",
+    "null": "#8cc85f",
+    "atom": "#8cc85f",
+    "self": "#8cc85f",
+    "operator": "#e65e72",
+    "punctuation": "#c6c6c6",
+    "variableName": "#c6c6c6",
+    "constant(variableName)": "#79dac8",
+    "function(variableName)": "#74b2ff",
+    "propertyName": "#adadf3",
+    "typeName": "#36c692",
+    "className": "#36c692",
+    "namespace": "#79dac8",
+    "labelName": "#79dac8",
+    "macroName": "#79dac8",
+    "annotation": "#74b2ff",
+    "tagName": "#80a0ff",
+    "attributeName": "#79dac8",
+    "angleBracket": "#8cc85f",
+    "heading": "#74b2ff",
+    "heading1": "#adadf3",
+    "heading2": "#adadf3",
+    "heading3": "#79dac8",
+    "heading4": "#de935f",
+    "heading6": "#cf87e8",
+    "link": "#8cc85f",
+    "url": {
+      "color": "#ae81ff",
+      "underline": true
+    },
+    "strong": "#e196a2",
+    "emphasis": {
+      "color": "#e196a2",
+      "italic": true
+    },
+    "strikethrough": {
+      "strikethrough": true
+    },
+    "quote": "#949494",
+    "list": "#e65e72",
+    "monospace": "#c6c684",
+    "invalid": "#ff5d5d",
+    "inserted": "#8cc85f",
+    "deleted": "#ff5d5d",
+    "changed": "#74b2ff"
   }
 }
