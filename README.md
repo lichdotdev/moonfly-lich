@@ -8,7 +8,7 @@ Upstream theme repo: [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-m
 
 ### Installation
 
-[lich](https://github.com/omartelo/lich) installs a theme repository from its
+[lich](https://github.com/lichdotdev/lich) installs a theme repository from its
 URL — nothing to download or copy by hand:
 
 1. Open lich and go to **Settings → Appearance**.
